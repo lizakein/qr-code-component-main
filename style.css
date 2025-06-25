@@ -29,7 +29,7 @@ body {
     width: 320px;
     height: 500px;
     margin: auto;
-    padding: 16px 16px 40px;
+    padding: 1rem 1rem 2.5rem;
     border-radius: 20px;
     box-shadow: 0 25px 25px 0 rgb(0, 0, 0, 0.0477);
     background-color: var(--white-color);
@@ -37,21 +37,21 @@ body {
 
 .qr-code {
     width: 100%;
-    margin-block-end: 24px;
+    margin-block-end: 1.5rem;
     border-radius: 10px;   
 }
 
 .text {
-    padding: 0 16px;
+    padding: 0 1rem;
     text-align: center;
 }
 
 .heading {
-    margin: 0 0 16px;
+    margin: 0 0 1rem;
     color: var(--heading-color);
     font-family: "Outfit", sans-serif;
     font-weight: 700;
-    font-size: 24px;
+    font-size: 1.5rem;
     line-height: 1.2;
     letter-spacing: 0.2px;
 }
@@ -61,7 +61,7 @@ body {
     color: var(--paragraph-color);
     font-family: "Outfit", sans-serif;
     font-weight: 450;
-    font-size: 16px;
+    font-size: 1rem;
     line-height: 1.5;
     letter-spacing: 0.5px;
 }
